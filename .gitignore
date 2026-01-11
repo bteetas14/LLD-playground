@@ -1,0 +1,15 @@
+# executables
+executables/
+
+# build outputs
+*.out
+*.exe
+*.o
+*.obj
+
+# editor
+.vscode/
+
+# misc
+input.txt
+output.txt
